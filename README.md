@@ -5,44 +5,44 @@ KDE4 Konsole Colorschemes captured from various places on Internet.
 
 I am just compiling all these in one place.
 
-Screenshots
+master/screenshots
 ===========
 
 1. Monokai
 
-[!Monokai](https://raw.github.com/nareshv/kde-konsole-colorschemes/screens/monokai.png)
+[!Monokai](https://raw.github.com/nareshv/kde-konsole-colorschemes/master/screens/monokai.png)
 
 2. Tango
 
-[!Tango](https://raw.github.com/nareshv/kde-konsole-colorschemes/screens/tango.png)
+[!Tango](https://raw.github.com/nareshv/kde-konsole-colorschemes/master/screens/tango.png)
 
 3. Black On White
 
-[!Black On White](https://raw.github.com/nareshv/kde-konsole-colorschemes/screens/black-on-white.png)
+[!Black On White](https://raw.github.com/nareshv/kde-konsole-colorschemes/master/screens/black-on-white.png)
 
 4. Dark Pastels
 
-[!Dark Pastels](https://raw.github.com/nareshv/kde-konsole-colorschemes/screens/dark-pastels.png)
+[!Dark Pastels](https://raw.github.com/nareshv/kde-konsole-colorschemes/master/screens/dark-pastels.png)
 
 5. Oxygen
 
-[!Oxygen](https://raw.github.com/nareshv/kde-konsole-colorschemes/screens/oxygen.png)
+[!Oxygen](https://raw.github.com/nareshv/kde-konsole-colorschemes/master/screens/oxygen.png)
 
 6. Solarized
 
-[!Solarized](https://raw.github.com/nareshv/kde-konsole-colorschemes/screens/solarized.png)
+[!Solarized](https://raw.github.com/nareshv/kde-konsole-colorschemes/master/screens/solarized.png)
 
 7. Solarized Light
 
-[!Solarized Light](https://raw.github.com/nareshv/kde-konsole-colorschemes/screens/solarized-light.png)
+[!Solarized Light](https://raw.github.com/nareshv/kde-konsole-colorschemes/master/screens/solarized-light.png)
 
 8. Solarized Dark
 
-[!Solarized Dark](https://raw.github.com/nareshv/kde-konsole-colorschemes/screens/solarized-dark.png)
+[!Solarized Dark](https://raw.github.com/nareshv/kde-konsole-colorschemes/master/screens/solarized-dark.png)
 
 9. bl1nk
 
-[!bl1nk](https://raw.github.com/nareshv/kde-konsole-colorschemes/screens/bl1nk.png)
+[!bl1nk](https://raw.github.com/nareshv/kde-konsole-colorschemes/master/screens/bl1nk.png)
 
 Credits
 =======
