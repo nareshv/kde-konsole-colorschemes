@@ -5,6 +5,13 @@ KDE4 Konsole Colorschemes captured from various places on Internet.
 
 I am just compiling all these in one place.
 
+Installation
+============
+
+Copy these files to `~/.kde/share/apps/konsole` directory.
+
+Go to `konsole` > `settings` > `Edit Current Profile` > `Appearance` and choose your preferred theme.
+
 master/screenshots
 ===========
 
