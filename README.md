@@ -8,7 +8,7 @@ I am just compiling all these in one place.
 Installation
 ============
 
-Copy these files to `~/.kde/share/apps/konsole` directory.
+Copy these files to `~/.kde/share/apps/konsole` directory ( or `~/.local/share/konsole` directory, if kde is newer > 2015)
 
 Go to `konsole` > `settings` > `Edit Current Profile` > `Appearance` and choose your preferred theme.
 
