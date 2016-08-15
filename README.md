@@ -51,6 +51,10 @@ master/screenshots
 
 ![bl1nk](https://raw.github.com/nareshv/kde-konsole-colorschemes/master/screens/bl1nk.png)
 
+9. FlatUI
+
+![flatui](https://raw.github.com/nareshv/kde-konsole-colorschemes/master/screens/flatui.png)
+
 Credits
 =======
 
