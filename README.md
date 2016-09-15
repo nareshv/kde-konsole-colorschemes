@@ -55,6 +55,11 @@ master/screenshots
 
 ![flatui](https://raw.github.com/nareshv/kde-konsole-colorschemes/master/screens/flatui.png)
 
+10. [Srcery](https://github.com/roosta/vim-srcery)
+
+![Srcery](https://raw.github.com/nareshv/kde-konsole-colorschemes/master/screens/srcery.png)
+
+
 Credits
 =======
 
