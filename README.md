@@ -12,6 +12,13 @@ Copy these files to `~/.kde/share/apps/konsole` directory ( or `~/.local/share/k
 
 Go to `konsole` > `settings` > `Edit Current Profile` > `Appearance` and choose your preferred theme.
 
+More Themes
+==============
+
+I have found many more themes for konsole @ https://github.com/mbadolato/iTerm2-Color-Schemes/
+
+Download all additional color schemes from `https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/konsole`
+
 master/screenshots
 ===========
 
@@ -69,3 +76,4 @@ License
 =======
 
 MIT
+
